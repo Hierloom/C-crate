@@ -1,0 +1,11 @@
+C:\Users\nicla\source\repos\sodacrate\sodacrate\obj\Debug\netcoreapp2.2\sodacrate.csprojAssemblyReference.cache
+C:\Users\nicla\source\repos\sodacrate\sodacrate\obj\Debug\netcoreapp2.2\sodacrate.csproj.CoreCompileInputs.cache
+C:\Users\nicla\source\repos\sodacrate\sodacrate\obj\Debug\netcoreapp2.2\sodacrate.AssemblyInfoInputs.cache
+C:\Users\nicla\source\repos\sodacrate\sodacrate\obj\Debug\netcoreapp2.2\sodacrate.AssemblyInfo.cs
+C:\Users\nicla\source\repos\sodacrate\sodacrate\bin\Debug\netcoreapp2.2\sodacrate.deps.json
+C:\Users\nicla\source\repos\sodacrate\sodacrate\bin\Debug\netcoreapp2.2\sodacrate.runtimeconfig.json
+C:\Users\nicla\source\repos\sodacrate\sodacrate\bin\Debug\netcoreapp2.2\sodacrate.runtimeconfig.dev.json
+C:\Users\nicla\source\repos\sodacrate\sodacrate\bin\Debug\netcoreapp2.2\sodacrate.dll
+C:\Users\nicla\source\repos\sodacrate\sodacrate\bin\Debug\netcoreapp2.2\sodacrate.pdb
+C:\Users\nicla\source\repos\sodacrate\sodacrate\obj\Debug\netcoreapp2.2\sodacrate.dll
+C:\Users\nicla\source\repos\sodacrate\sodacrate\obj\Debug\netcoreapp2.2\sodacrate.pdb
